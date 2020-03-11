@@ -1,0 +1,1 @@
+{"frames":[{"character_number":0,"end_character_number":0,"end_line_number":0,"file":"","func":"head(data_crane_long)","line_number":0}],"message":"Error in head(data_crane_long) : object 'data_crane_long' not found\n"}

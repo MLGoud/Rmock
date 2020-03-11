@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583921439138.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1930854263",
+    "id" : "BA7BF0B5",
+    "lastKnownWriteTime" : 1583924103,
+    "last_content_update" : 1583924103659,
+    "path" : "~/good_enough_project/modernR_solutions.Rmd",
+    "project_path" : "modernR_solutions.Rmd",
+    "properties" : {
+        "cursorPosition" : "9,13",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
